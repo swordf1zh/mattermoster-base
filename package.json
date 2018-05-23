@@ -1,0 +1,17 @@
+{
+  "name": "mattermoster",
+  "version": "0.0.1",
+  "description": "Node.js + Express base API for Mattermost slash command integrations",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mattermost",
+    "slack",
+    "integration",
+    "slash-commands"
+  ],
+  "author": "Ricardo Tribaldos <ricardo@baru.studio> (http://baru.studio)",
+  "license": "MIT"
+}
