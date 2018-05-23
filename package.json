@@ -1,5 +1,5 @@
 {
-  "name": "mattermoster",
+  "name": "mattermoster-base",
   "version": "0.0.1",
   "description": "Node.js + Express base API for Mattermost slash command integrations",
   "main": "app.js",
