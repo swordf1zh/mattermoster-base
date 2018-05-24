@@ -13,5 +13,14 @@
     "slash-commands"
   ],
   "author": "Ricardo Tribaldos <ricardo@baru.studio> (http://baru.studio)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "express": "^4.16.3",
+    "http-errors": "^1.6.3",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
 }
