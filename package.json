@@ -4,6 +4,8 @@
   "description": "Node.js + Express base API for Mattermost slash command integrations",
   "main": "app.js",
   "scripts": {
+    "start": "node ./bin/www",
+    "dev": "SET DEBUG=mattermoster:* && nodemon ./bin/www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
