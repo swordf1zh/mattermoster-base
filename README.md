@@ -37,7 +37,8 @@ Mattermoster is currently extended with the following plugins. Instructions on h
 
 | Plugin | Description |
 | ------ | ------ |
-| [Todo](https://github.com/swordf1zh/mattermoster-todo-plugin/blob/master/README.md) | ToDo plugin for Mattermoster based on Node.js + Express + MySQL. |
+| [ToDo](https://github.com/swordf1zh/mattermoster-todo-plugin) | ToDo plugin for Mattermoster based on Node.js + Express + MySQL. |
+| [Music Player Daemon](https://github.com/swordf1zh/mattermoster-mpd-plugin) | Music Player Daemon (MPD) client plugin for Mattermoster API based on Node.js. |
 
 ## Development
 
